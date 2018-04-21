@@ -1,4 +1,4 @@
-# esx_gunshot
+# esx_newspaper
 ## Beskrivning
 Ger möjligheten till en tidning in-game, och visar även visuellt att en person håller i en tidning.
 
